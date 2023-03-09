@@ -1,7 +1,7 @@
-### <div align="center">Welcome my github profile 👋</div>
+## <div align="left">Welcome my github profile 👋</div>
 _ _ _
 
-### <div align="center">🛠 Technical Skills</div>
+### <div align="left">🛠 Technical Skills</div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -12,7 +12,7 @@ _ _ _
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 </div>
 
-### <div align="center">🛠 Tools </div>
+### <div align="left">🛠 Tools </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -22,9 +22,9 @@ _ _ _
 
 - - -
 
-<div align="center">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyoungjiin&show_icons=true&theme=tokyonight)
-</div>
+
 <!--
 **parkyoungjiin/parkyoungjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
