@@ -22,10 +22,9 @@ _ _ _
 
 - - -
 
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyoungjiin)](https://github.com/parkyoungjiin/github-readme-stats)
 
-</div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkyoungjiin&show_icons=true&theme=tokyonight)
+
 <!--
 **parkyoungjiin/parkyoungjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
