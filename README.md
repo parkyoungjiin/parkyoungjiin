@@ -19,6 +19,13 @@ _ _ _
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+- - -
+
+<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyoungjiin)](https://github.com/parkyoungjiin/github-readme-stats)
+
+</div>
 <!--
 **parkyoungjiin/parkyoungjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
