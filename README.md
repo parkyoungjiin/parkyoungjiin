@@ -1,5 +1,11 @@
 ### <div align="center">Welcome my github profile 👋</div>
+_ _ _
 
+<div align="center">🛠Technical Skills</div>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-4682B4?style=flat-square&logo=Java&logoColor=white"/>
+
+</div>
 <!--
 **parkyoungjiin/parkyoungjiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
