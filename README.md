@@ -2,7 +2,7 @@
 _ _ _
 
 ### <div align="left">🛠 Technical Skills</div>
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -13,7 +13,7 @@ _ _ _
 </div>
 
 ### <div align="left">🛠 Tools </div>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
