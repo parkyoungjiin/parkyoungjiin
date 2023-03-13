@@ -1,7 +1,7 @@
 ## <div align="left">Welcome my github profile 👋</div>
 
 ## <div align ="left">소개</div>
-<div>동일한 에러를 발생하지 않기 위해, 공부한 것을 기록하기 위한 공간 -> <a href ='https://parkyoungjiin.github.io/'><img src="https://img.shields.io/badge/Tech Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<div>동일한 에러를 발생하지 않기 위해, 공부한 것을 기록하기 위한 공간 <a href ='https://parkyoungjiin.github.io/'><img src="https://img.shields.io/badge/Tech Blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ### <div align="left">🛠 Technical Skills</div>
