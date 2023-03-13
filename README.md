@@ -1,7 +1,7 @@
 ## <div align="left">Welcome my github profile 👋</div>
 
 <div>동일한 에러를 발생하지 않기 위해, 공부한 것을 기록하기 위한 공간 
-<img src="https://camo.githubusercontent.com/acc28c2b63bfb1903d3460eb81795cfb5fcf1b68270f08ccc42ccd1c34ba83b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230626c6f672d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f736f776f6e2d6465762e6769746875622e696f2f" alt="Tech Blog Badge" data-canonical-src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&amp;logo=github&amp;link=https://parkyoungjiin.github.io/" style="max-width: 100%;">
+<a href='https://parkyoungjiin.github.io'><img src="https://camo.githubusercontent.com/acc28c2b63bfb1903d3460eb81795cfb5fcf1b68270f08ccc42ccd1c34ba83b5/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230626c6f672d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f736f776f6e2d6465762e6769746875622e696f2f" alt="Tech Blog Badge" data-canonical-src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&amp;logo=github&amp;link=https://parkyoungjiin.github.io/" style="max-width: 100%;"></a>
 </div>
 
 ### <div align="left">🛠 Technical Skills</div>
